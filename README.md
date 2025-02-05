@@ -113,11 +113,3 @@ This *structured breakdown* ensures you *prioritize important topics* and *revis
 
 
 ---
-
-📌 How This .md Format Helps:
-
-✅ Easy to Read: Organized into clear tables and bullet points.
-✅ Copy-Paste Ready: You can directly paste this into a Markdown-supported platform like GitHub, Notion, or VS Code.
-✅ Exam-Focused: Helps you quickly identify and focus on high-weightage topics.
-
-Let me know if you need any more refinements or additions! 🚀
